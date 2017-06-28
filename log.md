@@ -1,5 +1,5 @@
 # 100 Days Of Code - Log
-
+<!---
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
@@ -28,3 +28,10 @@
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+-->
+### Day 0: June 28, 2017
+
+**Today's Progress**: Array, 
+**Thoughts:** I feel like I am slowly getting better at it. Array's in build functions are still new to me, but I managed to figure out push() function and similar unshift() function but it adds elements in the front of an array.
+
+**Link to work:** 
